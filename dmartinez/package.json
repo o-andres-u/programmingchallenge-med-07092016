@@ -1,0 +1,14 @@
+{
+  "name": "alg",
+  "version": "1.0.0",
+  "description": "Algoritmo ...",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniel Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.0.2"
+  }
+}
